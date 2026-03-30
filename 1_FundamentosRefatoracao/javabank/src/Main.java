@@ -5,7 +5,7 @@ public class Main {
 
         Conta cc = new Corrente(1000, sms);
         Conta cp = new Poupanca(1000, email);
-        Conta salario = new Salario(1000, email);
+        Conta salario = new Salario(1500, email);
 
         //Efetuando os saques
         cc.saque(1500);
