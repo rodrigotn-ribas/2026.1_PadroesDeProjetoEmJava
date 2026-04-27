@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5_Fabricas_Complexas_Otimizacao_RPG/java-engine-rpg02-legado" vcs="Git" />
   </component>
 </project>
